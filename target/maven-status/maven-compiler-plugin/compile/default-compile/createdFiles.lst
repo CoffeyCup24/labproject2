@@ -1,0 +1,6 @@
+edu/canisius/csc213/project2/Controller.class
+edu/canisius/csc213/project2/util/PolygonJsonReplyTranslator.class
+edu/canisius/csc213/project2/quotes/PolygonStockQuoteProvider.class
+edu/canisius/csc213/project2/quotes/StockQuoteProvider.class
+edu/canisius/csc213/project2/quotes/MockStockQuoteProvider.class
+edu/canisius/csc213/project2/quotes/StockQuote.class

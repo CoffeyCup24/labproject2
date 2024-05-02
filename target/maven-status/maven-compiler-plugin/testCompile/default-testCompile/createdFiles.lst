@@ -1,0 +1,5 @@
+edu/canisius/csc312/project2/quotes/StockQuoteTest.class
+edu/canisius/csc312/project2/quotes/RestEndpointUrlCreationTest.class
+edu/canisius/csc312/project2/util/PolygonJsonReplyTranslatorTest.class
+edu/canisius/csc312/project2/ControllerTest.class
+edu/canisius/csc312/project2/DirectoryExistenceTest.class
